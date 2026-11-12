@@ -585,3 +585,6 @@ html:not(.js) .faq-a > div { visibility: visible; }
 .target-card { gap: 0; }
 .target-card .icon-badge { margin-bottom: 26px; }
 .target-card p { margin-top: 14px; color: var(--text-soft); font-size: 15.5px; line-height: 1.65; max-width: 34ch; }
+
+/* Titolo su due righe */
+.h2-two-lines span, .h2-two-lines em { display: block; }
