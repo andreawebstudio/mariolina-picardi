@@ -1,0 +1,5 @@
+# Configurazione locale dell'editor / anteprima
+.claude/
+.vercel/
+Thumbs.db
+.DS_Store
